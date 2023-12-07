@@ -1,0 +1,48 @@
+{
+  "project_info": {
+    "project_number": "791764874763",
+    "project_id": "sgs-projeto",
+    "storage_bucket": "sgs-projeto.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791764874763:android:f7942eb4878039dcad390e",
+        "android_client_info": {
+          "package_name": "com.example.sgs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30wr_sSUUe0DjqXW-OtMyPZPWwVmRl04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:791764874763:android:c2a6fa8199bda19fad390e",
+        "android_client_info": {
+          "package_name": "packagecom.example.sgs_app"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyB30wr_sSUUe0DjqXW-OtMyPZPWwVmRl04"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
